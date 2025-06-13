@@ -30,7 +30,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/matomabo/#> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/matomabo/#"> </a>
-         <a href=https://defiant-saffron-661.notion.site/Bomi-s-Portfolio-1270b479a40080b786e3f0606b8f5118?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://defiant-saffron-661.notion.site/Bomi-s-Portfolio-1270b479a40080b786e3f0606b8f5118?pvs=4"> </a>
+         <a href=https://defiant-saffron-661.notion.site/Frontend-Developer-Portfolio-2100b479a400805d81b4f21761d15a9e?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://defiant-saffron-661.notion.site/Bomi-s-Portfolio-1270b479a40080b786e3f0606b8f5118?pvs=4"> </a>
          <a href=mailto:bomikim046@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bomikim046@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
